@@ -1,4 +1,4 @@
 # mrstrange-exp
 Experiment Git repo
 <br>
-Author - Viktor Strange
+Author - JDR aka Viktor Strange
